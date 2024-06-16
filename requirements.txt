@@ -7,4 +7,5 @@ scikit-learn
 opencv-python
 pillow
 gunicorn
+dlib
 face_recognition
