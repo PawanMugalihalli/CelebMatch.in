@@ -1,0 +1,8 @@
+data/ (Contains data used for training the model)
+uploads/ (Stores uploaded user images for processing)
+.gitignore (A file specifying files and folders to exclude from version control)
+app.py (The main Python script containing the web application logic)
+embedding.pkl (A serialized file containing facial embeddings, generated during model training)
+feature_extractor.py (Python script responsible for extracting facial features from images)
+filenames.pkl (Another serialized file,containing filenames)
+requirements.txt (Text file listing the Python libraries required to run the project)
