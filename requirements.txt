@@ -8,4 +8,5 @@ opencv-python
 pillow
 gunicorn
 dlib
+cmake
 face_recognition
