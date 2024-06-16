@@ -1,0 +1,10 @@
+numpy
+tensorflow
+keras
+tqdm
+streamlit
+scikit-learn
+opencv-python
+pillow
+gunicorn
+face_recognition
